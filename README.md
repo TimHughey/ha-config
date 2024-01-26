@@ -1,5 +1,5 @@
 # ha-config
 
-** NOTE **
+## NOTE
 
-THis configuraiton is very much a work-in-progress!
+This configuraiton is very much a work-in-progress!
