@@ -1,2 +1,5 @@
 # ha-config
-Home Assistant Config
+
+** NOTE **
+
+THis configuraiton is very much a work-in-progress!
